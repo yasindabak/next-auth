@@ -95,11 +95,3 @@ npm start
 - "Callback URL mismatch" veya benzeri sağlayıcı hatalarında, OAuth sağlayıcınızın paneline eklediğiniz callback/redirect URL'nin NEXTAUTH_URL ile eşleştiğinden emin olun.
 - NEXTAUTH_SECRET eksikse oturum güvenliği sorunları yaşanır — güçlü bir rastgele dize kullanın.
 
-## Katkıda bulunmak
-
-- Bir hata bulduysanız issue açın veya doğrudan bir pull request gönderin.
-- Yeni sağlayıcı örnekleri, dokümantasyon geliştirmeleri ve testler memnuniyetle karşılanır.
-
-## Lisans
-
-Bu depoda lisans belirtilmemiştir. Kendi kullanımınız veya paylaşımınız için uygun bir açık kaynak lisansı eklemeniz önerilir.
